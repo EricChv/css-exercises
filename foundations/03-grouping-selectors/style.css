@@ -1,10 +1,10 @@
 .click-me {
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .no-click-me {
-    background-color: yellow;
+    background-color: #FFFF00;
 }
 
 .adjust-font {
