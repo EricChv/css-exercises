@@ -31,7 +31,6 @@ a { /* Apply the color to the anchor tags */
 
 .header > .right-links {
   display: flex;
-  margin-right: 30px;
 }
 
 
@@ -46,7 +45,6 @@ a { /* Apply the color to the anchor tags */
 
 .footer > .right-links {
   display: flex;
-  margin-right: 30px;
 }
 
 .footer > .left-links {
@@ -71,7 +69,6 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-  margin-bottom: 16px;
 }
 
 
